@@ -6,7 +6,7 @@ Este trabajo fue llevado por Michel Leandro dentro de las Practicas profesionali
 
 ### 1. Objetivo
 
-Crear un programa a partir de SAM que permita segmentar nanoparticulas para luego obtener estadistica en histograma de las mismas.
+Crear un programa a partir de SAM que permita mediante un filtrado de area o diagonal mayor segmentar nanoparticulas para luego obtener estadistica en histograma de las mismas.
 
 ### 2. Introducción
 
