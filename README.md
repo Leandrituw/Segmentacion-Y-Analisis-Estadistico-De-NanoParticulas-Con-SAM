@@ -11,6 +11,13 @@ Crear un programa a partir de SAM que permita segmentar nanoparticulas para lueg
 ### 2. Introducción
 
 Segment Anything Model o SAM es un modelo de segmentacion de imagenes open source hecho por la empresa Meta que nos permite a partir de diversos promts obtener mascaras/segmentaciones muy identicas a la forma original con lo cual se busco analizar nanoparticulas para generar mascaras filtrando por area, diagonal mayor o tambien descartando interactivamente mascaras generadas no deseadas para luego obtener histogramas de las mismas.
+
+<div align="center">
+	<img src="/img/0.png">
+</div>
+<div align="center">
+	<em> SAM </em>
+</div>
 	
 ### 3. Instalacion y Manual De Uso
 
@@ -25,19 +32,48 @@ _[Manual_De_Uso](https://github.com/Leandrituw/Segmentacion-Y-Analisis-Estadisti
 1. NANOPARTICULAS REDONDAS
 
 <div align="center">
-	<img src="/img/Esquema1.png">
+	<img src="/img/1.png">
 </div>
 <div align="center">
-	<em> Figura 8 - Arquitectura Final </em>
+	<em> Foto Original </em>
 </div>
+
+<div align="center">
+	<img src="/img/2.png">
+</div>
+<div align="center">
+	<em> Foto Segmentada </em>
+</div>
+
+<div align="center">
+	<img src="/img/3.png">
+</div>
+<div align="center">
+	<em> Estadistica </em>
+</div>
+
 
 1. NANOPARTICULAS CILINDRICAS
 
 <div align="center">
-	<img src="/img/Esquema1.png">
+	<img src="/img/4.png">
 </div>
 <div align="center">
-	<em> Figura 8 - Arquitectura Final </em>
+	<em> Foto Original </em>
+</div>
+
+<div align="center">
+	<img src="/img/5.png">
+</div>
+<div align="center">
+	<em> Foto Segmentada </em>
+</div>
+
+<div align="center">
+	<img src="/img/6.png">
+</div>
+<div align="center">
+	<em> Estadistica </em>
 </div>
 
 ### 6. Conclusion 
