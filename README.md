@@ -25,7 +25,7 @@ En el siguiente enlace se indica paso a paso la instalcion y forma de uso del pr
 
 _[Manual_De_Uso](https://github.com/Leandrituw/Segmentacion-Y-Analisis-Estadistico-De-NanoParticulas-Con-SAM/blob/main/Otros/Manual_De_Uso_SAM.pdf)_
 
-### 5. Resultados
+### 4. Resultados
 
 Luego de varias consultas con un representante del grupo de nanofotonica e iteraciones para mejorar el codigo se obtuvieron los siguientes resultados.
 
@@ -76,11 +76,11 @@ Luego de varias consultas con un representante del grupo de nanofotonica e itera
 	<em> Estadistica </em>
 </div>
 
-### 6. Conclusion 
+### 5. Conclusion 
 
 Despues de un analisis sobre SAM, su codigo y las necesidades del grupo de nanofotonica se formo un programa capaz de generar mascaras muy cercanas a la forma de las nanoparticulas filtrando segun su area o diagonal mayor ademas de tener un grafico interactivo para el descarte de mascaras que no se deseen para posteriormente generar un analisis en histogramas sobre todas las mascaras generadas.
 
-### 7. Recursos 
+### 6. Recursos 
 
 Dentro Del Repositorio Se Encuentra: 
 * 📂Codigos📂 
@@ -94,7 +94,7 @@ Dentro Del Repositorio Se Encuentra:
   
 * ⚠️SE RECOMIENDA LEER LOS COMENTARIOS DE LOS CODIGOS⚠️
 
-### 8. Fuentes
+### 7. Fuentes
 
 _[Segment Anything Model](https://segment-anything.com/)_
 
