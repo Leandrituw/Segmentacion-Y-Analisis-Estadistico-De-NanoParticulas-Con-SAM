@@ -46,6 +46,13 @@ Luego de varias consultas con un representante del grupo de nanofotonica e itera
 </div>
 
 <div align="center">
+	<img src="/img/Descarte.gif">
+</div>
+<div align="center">
+	<em> Descarte Interactivo </em>
+</div>
+
+<div align="center">
 	<img src="/img/3.png">
 </div>
 <div align="center">
