@@ -13,7 +13,7 @@ Crear un programa a partir de SAM que permita segmentar nanoparticulas para lueg
 Segment Anything Model o SAM es un modelo de segmentacion de imagenes open source hecho por la empresa Meta que nos permite a partir de diversos promts obtener mascaras/segmentaciones muy identicas a la forma original con lo cual se busco analizar nanoparticulas para generar mascaras filtrando por area, diagonal mayor o tambien descartando interactivamente mascaras generadas no deseadas para luego obtener histogramas de las mismas.
 
 <div align="center">
-	<img src="/img/0.png">
+	<img src="/img/0.gif">
 </div>
 <div align="center">
 	<em> SAM </em>
