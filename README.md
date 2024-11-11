@@ -25,6 +25,8 @@ En el siguiente enlace se indica paso a paso la instalcion y forma de uso del pr
 
 _[Manual_De_Uso](https://github.com/Leandrituw/Segmentacion-Y-Analisis-Estadistico-De-NanoParticulas-Con-SAM/blob/main/Otros/Manual_De_Uso_SAM.pdf)_
 
+_[Presentacion De Proyectos](https://www.canva.com/design/DAGVnWDVBz0/gKAowva_oulsz6L4RoCJJQ/edit?utm_content=DAGVnWDVBz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)_
+
 ### 4. Resultados
 
 Luego de varias consultas con un representante del grupo de nanofotonica e iteraciones para mejorar el codigo se obtuvieron los siguientes resultados.
