@@ -27,7 +27,7 @@ _[Manual_De_Uso](https://github.com/Leandrituw/Segmentacion-Y-Analisis-Estadisti
 
 ### 5. Resultados
 
-➤Luego de varias consultas con un representante del grupo de nanofotonica e iteraciones para mejorar el codigo se obtuvieron los siguientes resultados.
+Luego de varias consultas con un representante del grupo de nanofotonica e iteraciones para mejorar el codigo se obtuvieron los siguientes resultados.
 
 1. NANOPARTICULAS REDONDAS
 
@@ -78,7 +78,7 @@ _[Manual_De_Uso](https://github.com/Leandrituw/Segmentacion-Y-Analisis-Estadisti
 
 ### 6. Conclusion 
 
-➤Despues de un analisis sobre SAM, su codigo y las necesidades del grupo de nanofotonica se formo un programa capaz de generar mascaras muy cercanas a la forma de las nanoparticulas filtrando segun su area o diagonal mayor ademas de tener un grafico interactivo para el descarte de mascaras que no se deseen para posteriormente generar un analisis en histogramas sobre todas las mascaras generadas.
+Despues de un analisis sobre SAM, su codigo y las necesidades del grupo de nanofotonica se formo un programa capaz de generar mascaras muy cercanas a la forma de las nanoparticulas filtrando segun su area o diagonal mayor ademas de tener un grafico interactivo para el descarte de mascaras que no se deseen para posteriormente generar un analisis en histogramas sobre todas las mascaras generadas.
 
 ### 7. Recursos 
 
