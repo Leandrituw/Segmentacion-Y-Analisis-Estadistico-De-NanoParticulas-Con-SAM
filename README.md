@@ -16,7 +16,7 @@ Segment Anything Model o SAM es un modelo de segmentacion de imagenes open sourc
 
 En el siguiente enlace se indica paso a paso la instalcion y forma de uso del programa.
 
-_[Manual_De_Uso](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)_
+_[Manual_De_Uso](https://github.com/Leandrituw/Segmentacion-Y-Analisis-Estadistico-De-NanoParticulas-Con-SAM/blob/main/Otros/Manual_De_Uso_SAM.pdf)_
 
 ### 5. Resultados
 
